@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-
+import OnboardingPlan from '../components/OnboardingPlan';
 function Home() {
   const navigate = useNavigate();
 
@@ -21,6 +21,7 @@ function Home() {
           </button>
         </div>
       </div>
+      <OnboardingPlan />
     </div>
   );
 }
