@@ -1,0 +1,33 @@
+[
+  {
+    "timelineId": "1",
+    "timelineName": "Day 1",
+    "missions": [
+      {
+        "id": 1,
+        "title": "Welcome",
+        "description": "# Welcome to Amazon!  \n\n**Congratulations** on joining the team! We’re thrilled to have you. Please review the [Company Handbook](https://example.com/handbook) and familiarize yourself with our core values:\n\n- **Customer Obsession**\n- **Invent and Simplify**\n- **Deliver Results**\n\n<u>Tip:</u> Reach out to your manager if you have any questions.",
+        "isCompleted": true
+      },
+      {
+        "id": 2,
+        "title": "Team Overview",
+        "description": "## Your Team  \n\nMeet the talented members of your squad:\n\n- **Alice Johnson** – Engineering Manager  \n- **Bob Lee** – Senior Software Engineer  \n- **Carla Reyes** – Product Designer  \n\n*Fun fact:* Our team loves hackathons! Check out last year’s recap [here](https://example.com/hackathon).",
+        "isCompleted": false
+      },
+      {
+        "id": 3,
+        "title": "Meet Your Onboarding Buddy",
+        "description": "Your buddy is **Hashem Altabbaa**, a Developer in your team.  \n\nFeel free to:\n\n- **Book a chat** with them: [Schedule here](https://calendly.com/hashem)  \n- Ask about day‑to‑day workflows  \n- Learn about the codebase architecture  \n\n<u>Tip:</u>: Hashem is a coffee enthusiast!_",
+        "person": "Hashem Altabbaa",
+        "isCompleted": false
+      },
+      {
+        "id": 4,
+        "title": "Standing Meeting: Welcome Onboard",
+        "description": "### Daily Standup  \n\n**Time:** *9:00 AM - 9:15 AM* in **Conference Room B**  \n\n**Agenda:**\n1. Quick introductions\n2. Share your first impressions\n3. Outline your first‑week goals\n\n> _Reminder:_ Please be on time to make the most of everyone’s day.",
+        "isCompleted": false
+      }
+    ]
+  }
+]
